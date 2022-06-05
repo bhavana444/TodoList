@@ -1,0 +1,31 @@
+{
+  "name": "todolist-v1",
+  "version": "1.0.0",
+  "description": "Access the application using:https://floating-earth-30905.herokuapp.com/",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "14.15.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.12.11"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavana444/todo-list-deployed-heroku.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/bhavana444/todo-list-deployed-heroku/issues"
+  },
+  "homepage": "https://github.com/bhavana444/todo-list-deployed-heroku#readme"
+}
